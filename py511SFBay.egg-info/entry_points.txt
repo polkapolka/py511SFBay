@@ -1,0 +1,3 @@
+[console_scripts]
+flee = py511SFBay.main:main
+
